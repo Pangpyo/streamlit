@@ -1,0 +1,7 @@
+pip==23.1.2
+streamlit==1.25.0
+OpenDartReader==0.2.3
+matplotlib==3.7.2
+mplfinance==0.12.10b0
+pandas==2.0.3
+finance-datareader==0.9.50
